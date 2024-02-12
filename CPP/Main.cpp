@@ -12,7 +12,7 @@ int main(){
              << "[A] Add Record\n"
              << "[E] Edit Record\n"
              << "[D] Delete Record\n"
-        << "[S] Show Record\n"
+             << "[S] Show Record\n"
              << "[ELSE] Exit\n"
              << "> ";
         cin >> option;
